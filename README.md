@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my course
+- 🔭 I’m currently doing my Data Analyst Training and Internship at [ShapeAi](https://www.shapeai.tech/) in Pune
 - 🌱 I’m currently learning Tableau and C++
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with starting career as Data Analyst
