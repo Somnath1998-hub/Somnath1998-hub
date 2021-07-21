@@ -8,5 +8,5 @@
 - 💬 Ask me about Statistics and Python
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/somnath-gherade-186677198/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am HappY
+- ⚡ Fun fact: I am very HappY!!!
 
