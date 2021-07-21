@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with starting career as Data Analyst
 - 💬 Ask me about Statistics and Python
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/somnath-gherade-186677198/)
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am HappY
 
