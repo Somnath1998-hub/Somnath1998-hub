@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://tenor.com/view/covid19-covid-coronavirus-stats-data-science-gif-16745648" width="500" height="320" />
+<img align="right" alt="JPEG" src="https://www.pexels.com/photo/business-charts-commerce-computer-265087/" width="500" height="320" />
 
 - 🔭 I’m currently doing my Data Analyst Training and Internship at [ShapeAi](https://www.shapeai.tech/) in Pune
 - 🌱 I’m currently learning Tableau and C++
